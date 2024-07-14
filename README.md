@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! I am Umer Jidda, a multidisciplinary professional with a strong background in computer science.<br>From Bangalore, India</h2>
+<h2 align="left">Hello 👋! I am Umer Jidda, a multidisciplinary professional with a strong background in Computer Science.<br>From Bangalore, India</h2>
 
 ###
 
