@@ -1,18 +1,18 @@
-# hey, i'm umer 👋
+# Hey, i'm umer 👋
 
-building in cloud security, devsecops, and offensive security.
-
----
-
-## ⚡ what i'm doing
-- 🔐 learning: cloud security, red teaming, kubernetes security
-- ☁️ building: aws + terraform based infrastructure
-- ⚙️ exploring: devsecops pipelines & automation
-- 🎯 goal: security engineer → cloud security / security architecture
+Building in cloud security, devsecops, and offensive security.
 
 ---
 
-## 🛠️ stack
+##  What i'm doing
+-  learning: cloud security, red teaming, kubernetes security
+-  building: aws + terraform based infrastructure
+-  exploring: devsecops pipelines & automation
+-  goal: security engineer → cloud security / security architecture
+
+---
+
+##  Stack
 - cloud: aws, azure
 - infra: terraform, docker, kubernetes
 - security: iam, siem, grc, vanta, tprm
@@ -20,10 +20,10 @@ building in cloud security, devsecops, and offensive security.
 
 ---
 
-## 🔥 projects (in progress)
-- 🚀 devsecops pipeline (ci/cd + security scanning)
-- 🔐 cloud security audit (misconfig detection)
-- 🛡️ red team lab (active directory + attack simulation)
+##  Projects (in progress)
+-  devsecops pipeline (ci/cd + security scanning)
+-  cloud security audit (misconfig detection)
+-  red team lab (active directory + attack simulation)
 
 ---
 
@@ -34,6 +34,3 @@ building in cloud security, devsecops, and offensive security.
 </p>
 
 ---
-
-## 🤝 connect
-- linkedin: (add your link)
