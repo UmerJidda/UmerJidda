@@ -1,6 +1,6 @@
-# Hey, i'm umer 👋
+# Hey, I'm Umer Jidda 👋
 
-Building in cloud security, devsecops, and offensive security.
+Building in Cloud Security, DevSecOps, and Offensive Security.
 
 ---
 
