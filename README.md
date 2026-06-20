@@ -18,7 +18,7 @@ Currently at **AnkerCloud**, engineering security and migration automation that 
 
 **Flagship Projects**
 
-- 🔍 [**Cloud Threat Detection Lab**](https://github.com/UmerJidda/cloud-threat-detection-lab) — Production-quality detection engineering platform: 14 MITRE ATT&CK-mapped Splunk detections across 9 tactics, automated AWS telemetry collection (CloudTrail, GuardDuty, SecurityHub, IAM), alert enrichment, and a complete incident-response playbook library (triage → investigation → containment → recovery).
+- 🔍 [**Cloud-Threat-Detection-Response-Platform**](https://github.com/UmerJidda/Cloud-Threat-Detection-Response-Platform) — Production-quality detection engineering platform: 14 MITRE ATT&CK-mapped Splunk detections across 9 tactics, automated AWS telemetry collection (CloudTrail, GuardDuty, SecurityHub, IAM), alert enrichment, and a complete incident-response playbook library (triage → investigation → containment → recovery).
 - 🕸️ [**CERIP**](https://github.com/UmerJidda/CERIP) — Continuous Enterprise Risk Intelligence Platform: graph-based security platform correlating cloud assets, IAM relationships, CI/CD pipelines, and attack paths using Neo4j and MITRE ATT&CK.
 - ☸️ [**Production K8s DevSecOps Pipeline**](https://github.com/UmerJidda/production-k8s-devsecops-pipeline) — Kubernetes-native CI/CD pipeline with integrated security scanning and policy enforcement. *(Active build — Kubernetes security focus.)*
 - [**GCP Security Audit Tool**](https://github.com/UmerJidda/gcp-security-audit-tool) — Automated GCP security posture assessment tooling
@@ -30,8 +30,8 @@ Currently at **AnkerCloud**, engineering security and migration automation that 
 ## Stack
 
 ```
-Cloud         AWS (CloudTrail, GuardDuty, Security Hub, IAM, Config)  ·  GCP  ·  Azure (R&D)
-Infra         Terraform  ·  Docker  ·  Kubernetes (in progress)  ·  GitHub Actions  ·  Linux
+Cloud         AWS (CloudTrail, GuardDuty, Security Hub, IAM, Config)  ·  GCP  ·  Azure 
+Infra         Terraform  ·  Docker  ·  Kubernetes  ·  GitHub Actions  ·  Linux
 Detection     Splunk  ·  SPL  ·  MITRE ATT&CK  ·  Detection-as-Code  ·  Alert Enrichment
 Security      Prowler  ·  ScoutSuite  ·  Semgrep  ·  Trivy  ·  Checkov  ·  pip-audit
 Dev           Python  ·  boto3  ·  FastAPI  ·  Bash  ·  SQL  ·  REST APIs
@@ -69,7 +69,7 @@ Frameworks    MITRE ATT&CK  ·  STRIDE  ·  CIS Controls  ·  ISO 27001  ·  NIS
 - AWS Certified Solutions Architect – Associate (SAA-C03)
 - EC-Council Certified Ethical Hacker v12 (CEH)
 - EC-Council Certified Network Defender v2 (CND)
-- TryHackMe DevSecOps Learning Path
+- TryHackMe DevSecOps 
 
 ---
 
